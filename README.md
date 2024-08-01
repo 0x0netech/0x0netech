@@ -78,10 +78,10 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <p align="center">
   <a href="https://github.com/0x0netech?tab=repositories"><img
       src="https://github-readme-stats.vercel.app/api?username=0x0netech&theme=gotham&show_icons=true&rank_icon=percentile&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-      width="48%" height="220px" alt="@Drue J's github-readme-stats" /></a>
+      width="48%" height="220px" alt="@0x0netech's github-readme-stats" /></a>
   <a href="https://wakatime.com/@0x0netech"><img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0netech&langs_count=10&layout=compact&theme=gotham&range=all_time&hide_border=true"
-      height="220px" alt="@Drue J's wakatime stats" /></a>
+      height="220px" alt="@0x0netech's wakatime stats" /></a>
 </p>
 <br/>
 <div align="center">
