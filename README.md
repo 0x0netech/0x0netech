@@ -87,16 +87,3 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=0x0netech&&style=flat-square" align="center" />
 </div>
-
-# Reach out to me
-
-<p align="center">
-  <a href="mailto:stephens.druej@gmail.com">
-    <img
-      src="https://img.icons8.com/color/2x/gmail.png"
-      alt="Gmail" width="40" title="Send mail">
-    <p align="center">
-    To comtact me.  stephens.druej@gmail.com
-    </P>
-  </a>
-</p>
