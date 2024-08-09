@@ -17,7 +17,6 @@ Are you looking for an honest and superior senior full stack developer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
 </p>
 
-
 <div>
   <br />
   - 🌱Dedicated blockchain full stack developer with extensive experience in designing and implementing complex blockchain solutions.<br />
@@ -25,7 +24,6 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
   Seeking a challenging role where I can utilize my skills and knowledge to drive innovation and success in the blockchain industry.<br />
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br />
 </div>
-
 
 #### Website Development
 
